@@ -32,3 +32,10 @@
 
 ## Procedures
 - Always blocks (combinational): Alwaysblock1.v
+- Always blocks (clocked): Alwaysblock2.v
+- If statement: Alwaysif.v
+- If statement latches: Alwaysif2.v
+- Case statement: Alwayscase.v
+- Priority encoder: Alwayscase2.v
+- Priority encoder with casez: Alwayscasez.v
+- Avoiding latches: Alwaysnolatches.v
