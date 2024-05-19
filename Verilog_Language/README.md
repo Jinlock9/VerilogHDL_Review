@@ -18,3 +18,17 @@
 - Vector Reversal: Vectorr.v
 - Replication Operator: Vectors4.v
 - More replication: Vectors5.v
+
+## Modules: Hierarchy
+- Modules: Modules.v
+- Connecting ports by position: Modulepos.v
+- Connecting ports by name: Modulename.v
+- Three modules: Moduleshift.v
+- Modules and vectors: Moduleshift8.v
+- Adder1: Adder1.v
+- Module Full Adder: Adder2.v
+- Carry select adder: Adder3.v
+- Adder-Subtractor: Adder4.v
+
+## Procedures
+- Always blocks (combinational): Alwaysblock1.v
