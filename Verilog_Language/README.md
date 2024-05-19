@@ -11,3 +11,6 @@
 ## Vectors
 - Vectors: Vectors.v
 - Vectors in more detail: Vectors1.v
+- Vector part select: Vectors2.v
+- Bitwise operators: Vectorgates.v
+- Four-input Gates: Gates4.v
