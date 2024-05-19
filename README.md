@@ -5,6 +5,7 @@ Refer to **HDLBits** (https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started
 
 ### Verilog Language
 - Basic
+- Vectors
 - Modules
 - Procedures
 - More Features
