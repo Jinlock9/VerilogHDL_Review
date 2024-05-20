@@ -39,3 +39,12 @@
 - Priority encoder: Alwayscase2.v
 - Priority encoder with casez: Alwayscasez.v
 - Avoiding latches: Alwaysnolatches.v
+
+## More Verilog Features
+- Conditional ternary operator: Conditional.v
+- Reduction operators: Reduction.v
+- Reduction: Even wider gates: Gates100.v
+- Combinational for-loop: Vector reversal 2: Vector100r.v
+- Combinational for-loop: 255-bit population count: Popcount255.v
+- Generate for-loop: 100-bit binary adder 2: Adder100i.v
+- Generate for-loop: 100-digit BCD adder: BCDAdder.v
